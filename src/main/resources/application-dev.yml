@@ -11,6 +11,6 @@ springdoc:
 openapi:
   service:
     api-docs: api-service
-    server: https://renderspringboot.onrender.com:${server.port}
+    server: https://renderspringboot.onrender.com
     title: API Document
     version: 1.0.0
